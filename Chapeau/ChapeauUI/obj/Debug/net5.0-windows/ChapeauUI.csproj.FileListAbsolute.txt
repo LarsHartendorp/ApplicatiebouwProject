@@ -18,3 +18,24 @@ C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauU
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.pdb
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.genruntimeconfig.cache
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.Login.resources
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\bin\Debug\net5.0-windows\ChapeauUI.exe
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\bin\Debug\net5.0-windows\ChapeauUI.dll.config
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\bin\Debug\net5.0-windows\ChapeauUI.deps.json
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\bin\Debug\net5.0-windows\ChapeauUI.runtimeconfig.json
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\bin\Debug\net5.0-windows\ChapeauUI.runtimeconfig.dev.json
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\bin\Debug\net5.0-windows\ChapeauUI.dll
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\bin\Debug\net5.0-windows\ChapeauUI.pdb
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.csproj.AssemblyReference.cache
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.Login.resources
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.Properties.Resources.resources
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.Register.resources
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.AssemblyInfoInputs.cache
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.AssemblyInfo.cs
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.dll
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\refint\ChapeauUI.dll
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.pdb
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.genruntimeconfig.cache
+C:\Users\joche\OneDrive\Documenten\GitHub\ApplicatiebouwProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ref\ChapeauUI.dll
