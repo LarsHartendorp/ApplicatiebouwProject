@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\larsh\\.nuget\\packages\\": {}
+    "C:\\Users\\joche\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\ChapeauUI\\ChapeauUI.csproj",
+      "projectUniqueName": "C:\\Users\\joche\\OneDrive\\Documenten\\GitHub\\ApplicatiebouwProject\\Chapeau\\ChapeauUI\\ChapeauUI.csproj",
       "projectName": "ChapeauUI",
-      "projectPath": "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\ChapeauUI\\ChapeauUI.csproj",
-      "packagesPath": "C:\\Users\\larsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\ChapeauUI\\obj\\",
+      "projectPath": "C:\\Users\\joche\\OneDrive\\Documenten\\GitHub\\ApplicatiebouwProject\\Chapeau\\ChapeauUI\\ChapeauUI.csproj",
+      "packagesPath": "C:\\Users\\joche\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joche\\OneDrive\\Documenten\\GitHub\\ApplicatiebouwProject\\Chapeau\\ChapeauUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\larsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joche\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
