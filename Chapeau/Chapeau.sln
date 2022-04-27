@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDAO", "BaseDAO\BaseDAO.csproj", "{4CBCC284-7DF4-4997-AD17-10DD78378336}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{2C119D42-C6A3-4A6C-BE54-FB525E08394D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{A62E5F26-5D2F-4049-A290-398E9C02CBD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logica", "Logica", "{9BAD691D-FBEC-483B-B6FE-EB92EDD32E08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{1FB77BF0-63FE-44B7-8E80-E5D712378F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CBCC284-7DF4-4997-AD17-10DD78378336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CBCC284-7DF4-4997-AD17-10DD78378336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CBCC284-7DF4-4997-AD17-10DD78378336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CBCC284-7DF4-4997-AD17-10DD78378336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B32207B-32C3-4A4F-955B-E3547CFF8569}
+	EndGlobalSection
+EndGlobal
