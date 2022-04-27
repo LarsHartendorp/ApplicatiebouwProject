@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joche\\OneDrive\\Documenten\\GitHub\\ApplicatiebouwProject\\Chapeau\\LoginService\\ChapeauLogica.csproj": {}
+    "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\LoginService\\ChapeauLogica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joche\\OneDrive\\Documenten\\GitHub\\ApplicatiebouwProject\\Chapeau\\LoginService\\ChapeauLogica.csproj": {
+    "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\LoginService\\ChapeauLogica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joche\\OneDrive\\Documenten\\GitHub\\ApplicatiebouwProject\\Chapeau\\LoginService\\ChapeauLogica.csproj",
+        "projectUniqueName": "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\LoginService\\ChapeauLogica.csproj",
         "projectName": "ChapeauLogica",
-        "projectPath": "C:\\Users\\joche\\OneDrive\\Documenten\\GitHub\\ApplicatiebouwProject\\Chapeau\\LoginService\\ChapeauLogica.csproj",
-        "packagesPath": "C:\\Users\\joche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joche\\OneDrive\\Documenten\\GitHub\\ApplicatiebouwProject\\Chapeau\\LoginService\\obj\\",
+        "projectPath": "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\LoginService\\ChapeauLogica.csproj",
+        "packagesPath": "C:\\Users\\larsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\LoginService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joche\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\larsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
