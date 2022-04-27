@@ -7,7 +7,6 @@ C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauU
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\bin\Debug\net5.0-windows\ref\ChapeauUI.dll
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\bin\Debug\net5.0-windows\ChapeauUI.pdb
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.csproj.AssemblyReference.cache
-C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.Form1.resources
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.Properties.Resources.resources
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.csproj.GenerateResource.cache
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.GeneratedMSBuildEditorConfig.editorconfig
@@ -18,3 +17,4 @@ C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauU
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ref\ChapeauUI.dll
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.pdb
 C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.genruntimeconfig.cache
+C:\Users\larsh\Desktop\School\Periode 4\Project\DatabaseProject\Chapeau\ChapeauUI\obj\Debug\net5.0-windows\ChapeauUI.Login.resources
