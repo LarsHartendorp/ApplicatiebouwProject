@@ -112,6 +112,7 @@ namespace ChapeauUI
             this.buttonRegister.TabIndex = 8;
             this.buttonRegister.Text = "Registreren";
             this.buttonRegister.UseVisualStyleBackColor = true;
+            this.buttonRegister.Click += new System.EventHandler(this.buttonRegister_Click);
             // 
             // panel1
             // 
