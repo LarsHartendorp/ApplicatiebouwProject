@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e+19dInkRkiP+s4/nY9waqkSBZ09DuJ4OKJKvoPHVL/nVgBi2XOYTfyognUfIwCu1dStjIkD4XUeN6+WEe6uaQ==",
+  "dgSpecHash": "A5E55cHwmJB30uADJJvQT1EZLSykZVmB0dCa1u0iwKcisLCwWsUBXgqje6ildPcISplzxdhR2chK2BIuj7qrnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\BaseDAO\\BaseDAO.csproj",
+  "projectFilePath": "C:\\Users\\larsh\\Desktop\\School\\Periode 4\\Project\\DatabaseProject\\Chapeau\\BaseDAO\\BaseDAOooooo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\larsh\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\larsh\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
