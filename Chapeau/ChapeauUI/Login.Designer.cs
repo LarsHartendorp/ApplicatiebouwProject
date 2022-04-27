@@ -1,7 +1,7 @@
 ﻿
 namespace ChapeauUI
 {
-    partial class Form1
+    partial class Login
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,7 +29,7 @@ namespace ChapeauUI
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             this.buttonLogin = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -133,7 +133,7 @@ namespace ChapeauUI
             // 
             this.panel2.Location = new System.Drawing.Point(45, 229);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(307, 125);
+            this.panel2.Size = new System.Drawing.Size(307, 108);
             this.panel2.TabIndex = 10;
             // 
             // buttonWachtwoordVergeten
